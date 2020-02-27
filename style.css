@@ -1,0 +1,43 @@
+body{
+    background-color: #fffbff;
+}
+.colore{
+    background-color: black;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text{
+    color: gray;
+}
+.cat-text{
+    color: #ffa207;
+}
+.top{
+    padding-top: 0;
+}
+.images img{
+
+    margin-top: 50%;
+    margin-bottom: 50%;
+    margin-left: 100px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+.image1{
+margin-top: 50px;
+
+}
+.cats{
+    margin: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+  
+}
+.line{
+    color: #ffa207;
+}
